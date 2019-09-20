@@ -10,6 +10,9 @@
     padding-bottom: 0;
     padding-top: 0;
 }
-#navbarNav, .navbar-nav {
-    height: 63px
+#navbarNav, .navbar-nav{
+    height: 80px
+}
+.img-logo {
+    height: 70px
 }
